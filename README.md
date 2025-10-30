@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/marco1991orlando/marco1991orlando/main/Background/Background.jpg" alt="Hello world">
+<img src="https://raw.githubusercontent.com/biochorl/biochorl/main/Background/Background.jpg" alt="Hello world">
 
 <h1 align='center'>
 
-  Hi there, I'm <a href="https://github.com/marco1991orlando/" target="_blank">@MarcoOrlando</a> 👋
+  Hi there, I'm <a href="https://github.com/biochorl/" target="_blank">@MarcoOrlando</a> 👋
 
 </h1>
 
@@ -75,7 +75,7 @@ Follow here or in LinkedIn!
 
 <p align="left">
   
-[![GitHub marco1991orlando](https://img.shields.io/github/followers/marco1991orlando?label=follow&style=social)](https://github.com/marco1991orlando)
+[![GitHub biochorl](https://img.shields.io/github/followers/biochorl?label=follow&style=social)](https://github.com/marco1991orlando)
 
 <p align="left">
   
