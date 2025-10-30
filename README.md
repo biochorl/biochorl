@@ -68,7 +68,9 @@ In my opinion any future development in the biotech field will need self-improvi
 <br style="clear: both;">
 
 
-### Happy to get in contact for scientific collaborations, seminars and any opportunity you may want to share in the protein evolution, discovery and design field :)
+## Happy to get in contact for scientific collaborations, seminars and any opportunity you may want to share in the protein evolution, discovery and design field :)
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3czbzVhamE5YWM0MDI1cGtoZGE5Nnc0aW8zYjhsdW0yOGFpenZ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="300" height="220" />
+
 Follow here or in LinkedIn!
 
 <p align="left">
@@ -79,7 +81,7 @@ Follow here or in LinkedIn!
   
 <p align="left">
 
-<a href="https://www.linkedin.com/in/ullah-samee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ullah-samee" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/marco-orlando-bioch91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ullah-samee" height="30" width="40" /></a>
 
 </p>
 <p align="left">
