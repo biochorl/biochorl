@@ -57,7 +57,7 @@ In my opinion any future development in the biotech field will need self-improvi
 ![](https://img.shields.io/badge/Plasmid%20Design-20B2AA?style=for-the-badge)
 ![](https://img.shields.io/badge/(Mutagenic)%20PCR-20B2AA?style=for-the-badge)
 ![](https://img.shields.io/badge/Plasmid%20Trasformation%20-20B2AA?style=for-the-badge)
-![](https://img.shields.io/badge/Protein%20Expression%20,%20Purification%20&%20Buffer%20exchange-20B2AA?style=for-the-badge)
+![](https://img.shields.io/badge/Protein%20Expression,%20Purification%20&%20Buffer%20exchange-20B2AA?style=for-the-badge)
 ![](https://img.shields.io/badge/SDS--PAGE-20B2AA?style=for-the-badge)
 ![](https://img.shields.io/badge/Nano%20Drop-20B2AA?style=for-the-badge)
 ![](https://img.shields.io/badge/Enyzme%20Substrate%20Specificity%20Screening-20B2AA?style=for-the-badge)
