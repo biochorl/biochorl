@@ -1,6 +1,5 @@
 <img src="https://raw.githubusercontent.com/marco1991orlando/marco1991orlando/main/Background/Background.jpg" alt="Hello world">
 
----
 <h1 align='center'>
 
   Hi there, I'm <a href="https://github.com/marco1991orlando/" target="_blank">@MarcoOrlando</a> 👋
