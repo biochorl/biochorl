@@ -16,7 +16,7 @@ I'm a Computational biologist with lab skills, working since > 8 years in the ch
 
 I want to drive innovation in protein and biocatalyst discovery/evolution/engineering for industrial and biomedical applications.
 
-Now it is clear that any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI-approaches that can be supervised to efficiently build new models/new hypothesis, as well as to autonomously propose experiments for collecting new experimental data. I hope with my feedbacks and work to contribute in building this future of supervised automation in bioinformatics.
+In my opinion any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI-approaches that can be supervised to efficiently build new models/new hypothesis, as well as to autonomously propose experiments for collecting new experimental data. I hope with my feedbacks and work to contribute in building this future of supervised automation in bioinformatics.
 
   </p>
 
