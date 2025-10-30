@@ -75,7 +75,7 @@ Follow here or in LinkedIn!
 
 <p align="left">
   
-[![GitHub biochorl](https://img.shields.io/github/followers/biochorl?label=follow&style=social)](https://github.com/marco1991orlando)
+[![GitHub biochorl](https://img.shields.io/github/followers/biochorl?label=follow&style=social)](https://github.com/biochorl)
 
 <p align="left">
   
