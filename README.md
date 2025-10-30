@@ -12,11 +12,11 @@
 
   <p>
 
-I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying function-structure interconnection during molecular evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to medically relevant biomarkers, both folded and unfolded. 
+I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying structure-function interconnection during evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to medically relevant biomarkers, both on folded and unfolded epitopes. 
 
 I want to drive innovation in protein and biocatalyst discovery/evolution/engineering for industrial and biomedical applications.
 
-In my opinion any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI-approaches that can be supervised on data to efficiently build new models/new hypothesis, as well as to autonomously propose new experiments. I hope with my feedbacks and work to contribute in building this future of supervised automation in the field.
+In my opinion any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI approaches supervised on data, to efficiently build new models, new hypotheses, up to autonomously propose new experiments. I hope with my feedbacks and work I will contribute in building this future made of supervised automation in the biotech field.
 
   </p>
 
