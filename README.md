@@ -12,7 +12,7 @@
 
   <p>
 
-I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying structure-function interconnection during evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to medically relevant biomarkers, both on folded and unfolded epitopes. 
+I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying structure-function interconnection during evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to both folded and unfolded epitopes of medically relevant biomarkers. 
 
 I want to drive innovation in protein and biocatalyst discovery/evolution/engineering for industrial and biomedical applications.
 
