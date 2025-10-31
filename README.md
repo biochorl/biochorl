@@ -38,7 +38,7 @@
 ###  Tools & Languages
 <p align="left">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge">
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?logo=gnubash&logoColor=white&style=for-the-badge">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge">
   <img alt="Plotly" src="https://img.shields.io/badge/Plotly-11557C?logo=matplotlib&logoColor=white&style=for-the-badge">
   <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge">
