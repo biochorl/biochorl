@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  I'm a <b>Computational Biologist</b> with over 8 years of experience in protein characterization and structure-function evolution. 
-  <br>
-  I bridge the gap between <b>wet-lab</b> and <b>computational methods</b>, currently focusing on <b>AI-driven Protein Design</b>.
+  I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying structure-function interconnection during evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to both folded and unfolded epitopes of medically relevant biomarkers. 
   <br><br>
-  <i>"Driving innovation in protein discovery for industrial and biomedical applications."</i>
+  I want to drive innovation in protein and biocatalyst discovery/evolution/engineering for industrial and biomedical applications.
+  <br><br>
+  In my opinion any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI approaches supervised on data, to efficiently build new models, new hypotheses, up to autonomously propose new experiments. I hope with my feedbacks and work I will contribute in building this future made of supervised automation in the biotech field.
 </p>
 
 <div align="center">
@@ -89,7 +89,11 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3czbzVhamE5YWM0MDI1cGtoZGE5Nnc0aW8zYjhsdW0yOGFpenZ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="300" />
   
-  <p>Happy to collaborate on protein evolution, discovery, and design!</p>
+  <p>
+    Happy to get in contact for scientific collaborations, seminars and any opportunity you may want to share in the protein evolution, discovery and design field :)
+    <br><br>
+    Follow here or in LinkedIn!
+  </p>
   
   <a href="https://www.linkedin.com/in/marco-orlando-bioch91" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
