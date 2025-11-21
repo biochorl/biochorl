@@ -1,95 +1,106 @@
-<img src="https://raw.githubusercontent.com/biochorl/biochorl/main/Background/Background.jpg" alt="Hello world">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/biochorl/biochorl/main/Background/Background.jpg" alt="Background" width="100%" />
+</div>
 
-<h1 align='center'>
-  Hi there, I'm <a href="https://github.com/biochorl/" target="_blank">@MarcoOrlando</a> 👋
-</h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/biochorl/" target="_blank">Marco Orlando</a> 👋</h1>
 
 <p align="center">
-  I'm a Computational biologist with lab skills, working since > 8 years in the characterization of novel proteins/enzymes and in studying structure-function interconnection during evolution. I am skilled at integrating wet-lab and computational methods. Now I am becoming a Protein Designer working with custom workflows that integrate AI- and physics-based methods for developing binders to both folded and unfolded epitopes of medically relevant biomarkers. 
-  <br><br>
-  I want to drive innovation in protein and biocatalyst discovery/evolution/engineering for industrial and biomedical applications.
-  <br><br>
-  In my opinion any future development in the biotech field will need self-improving transfer learning/reinforcement learning AI approaches supervised on data, to efficiently build new models, new hypotheses, up to autonomously propose new experiments. I hope with my feedbacks and work I will contribute in building this future made of supervised automation in the biotech field.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Computational+Biologist;Protein+Designer;Bioinformatics+Specialist;Lab+Automation+Enthusiast" alt="Typing SVG" />
+  </a>
 </p>
+
+<p align="center">
+  I'm a <b>Computational Biologist</b> with over 8 years of experience in protein characterization and structure-function evolution. 
+  <br>
+  I bridge the gap between <b>wet-lab</b> and <b>computational methods</b>, currently focusing on <b>AI-driven Protein Design</b>.
+  <br><br>
+  <i>"Driving innovation in protein discovery for industrial and biomedical applications."</i>
+</p>
+
+<div align="center">
+  <!-- GitHub Stats Only -->
+  <img src="https://github-readme-stats.vercel.app/api?username=biochorl&show_icons=true&theme=radical&hide_border=true" alt="Marco's GitHub Stats" height="180" />
+</div>
 
 ---
 
 ## 💻 Bioinfo Skills 
-<img align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJnOHZ5dzJhbTFuOHo4aGZoeHBubjJ5OXVlcTd1Zzk1OWk3dmh3ayZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9Zw/3o6Mb9rUQ5v4ZnBbzO/giphy.gif" width="400" height="300" />
 
-<p align="left">
-  <img alt="Protein Function Annotation" src="https://img.shields.io/badge/Protein%20Function%20Annotation-0056B3?style=for-the-badge">
-  <img alt="Structural Biology" src="https://img.shields.io/badge/Structural%20Biology-0056B3?style=for-the-badge">
-  <img alt="Molecular Dynamics Simulation" src="https://img.shields.io/badge/Molecular%20Dynamics%20Simulation-0056B3?style=for-the-badge">
-  <img alt="Binding Free Energy Calculations" src="https://img.shields.io/badge/Binding%20Free%20Energy%20Calculations-0056B3?style=for-the-badge">
-  <img alt="Protein Conformational Allosteric Analysis" src="https://img.shields.io/badge/Protein%20Conformational%20Allosteric%20analysis-0056B3?style=for-the-badge">
-  <br><br>
-  <img alt="Phylogenetics" src="https://img.shields.io/badge/Phylogenetics-0056B3?style=for-the-badge">
-  <img alt="Gene Evolution Analysis" src="https://img.shields.io/badge/Gene%20Evolution%20Analysis-0056B3?style=for-the-badge">
-  <img alt="Protein Evolution Analysis" src="https://img.shields.io/badge/Protein%20Evolution%20Analysis-0056B3?style=for-the-badge">
-  <img alt="Species Delimitation" src="https://img.shields.io/badge/Species%20Delimitation-0056B3?style=for-the-badge">
-  <img alt="Ancestral Sequence Reconstruction" src="https://img.shields.io/badge/Ancestral%20Sequence%20Recontruction-0056B3?style=for-the-badge">
-  <br><br>
-  <img alt="Physics-based Protein Design" src="https://img.shields.io/badge/Physics--based%20Protein%20Design-0056B3?style=for-the-badge">
-  <img alt="AI-based Protein Design" src="https://img.shields.io/badge/AI--based%20Protein%20Design-0056B3?style=for-the-badge">
-  <img alt="Custom AI-based Protocols" src="https://img.shields.io/badge/Custom%20AI--based%20Protocols-0056B3?style=for-the-badge">
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="60%">
+        <h3>🔬 Analysis & Simulation</h3>
+        <img src="https://img.shields.io/badge/Protein%20Function%20Annotation-0056B3?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Structural%20Biology-0056B3?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Molecular%20Dynamics-0056B3?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Binding%20Free%20Energy-0056B3?style=for-the-badge">
+        <br><br>
+        <h3>🧬 Evolution & AI</h3>
+        <img src="https://img.shields.io/badge/Phylogenetics-0056B3?style=for-the-badge">
+        <img src="https://img.shields.io/badge/AI--based%20Protein%20Design-0056B3?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Custom%20AI--based%20Protocols-0056B3?style=for-the-badge">
+      </td>
+      <td valign="center" width="40%">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJnOHZ5dzJhbTFuOHo4aGZoeHBubjJ5OXVlcTd1Zzk1OWk3dmh3ayZlcD12MV9pbnRlcm5hb19naWZfYnlfaWQmY3Q9Zw/3o6Mb9rUQ5v4ZnBbzO/giphy.gif" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-###  Tools & Languages
-<p align="left">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge">
-  <img alt="Bash" src="https://img.shields.io/badge/Bash-000000?logo=gnubash&logoColor=white&style=for-the-badge">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow&style=for-the-badge">
-  <img alt="Plotly" src="https://img.shields.io/badge/Plotly-11557C?logo=matplotlib&logoColor=white&style=for-the-badge">
-  <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white&style=for-the-badge">
-  <img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
-</p>
+## 🛠 Tools & Languages
 
-<br style="clear: both;">
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=linux,bash,python,md,vscode,git,github,docker" />
+  </p>
+  <img src="https://img.shields.io/badge/Plotly-11557C?logo=plotly&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge">
+</div>
 
-## 🧪 Lab Skills 
-<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBvbG5kcDk2bTFrdnl6bGc1eWF3cnM3cnZzNXNsODU5d2FqM3dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Vyqk4kqTOG76/giphy.gif" width="400" height="300" />
+---
 
-<p align="left">
-  <img alt="Microbial Cell Culture" src="https://img.shields.io/badge/Microbial%20Cell%20Culture-28A745?style=for-the-badge">
-  <img alt="OmniLog®" src="https://img.shields.io/badge/OmniLog®-28A745?style=for-the-badge">
-  <img alt="Plasmid Design" src="https://img.shields.io/badge/Plasmid%20Design-28A745?style=for-the-badge">
-  <img alt="(Mutagenic) PCR" src="https://img.shields.io/badge/(Mutagenic)%20PCR-28A745?style=for-the-badge">
-  <img alt="Plasmid Trasformation" src="https://img.shields.io/badge/Plasmid%20Trasformation%20-28A745?style=for-the-badge">
-  <br><br>
-  <img alt="Protein Expression, Purification & Buffer exchange" src="https://img.shields.io/badge/Protein%20Expression,%20Purification%20&%20Buffer%20exchange-28A745?style=for-the-badge">
-  <img alt="SDS-PAGE" src="https://img.shields.io/badge/SDS--PAGE-28A745?style=for-the-badge">
-  <img alt="Nano Drop" src="https://img.shields.io/badge/Nano%20Drop-28A745?style=for-the-badge">
-  <img alt="Enyzme Substrate Specificity Screening" src="https://img.shields.io/badge/Enyzme%20Substrate%20Specificity%20Screening-28A745?style=for-the-badge">
-  <img alt="Protein Stability" src="https://img.shields.io/badge/Protein%20Stability-28A745?style=for-the-badge">
-  <br><br>
-  <img alt="Enzyme Kinetics" src="https://img.shields.io/badge/Enzyme%20Kinetics%20-28A745?style=for-the-badge">
-  <img alt="Biophysical Analysis with CD & Fluorimeter" src="https://img.shields.io/badge/Biophysical%20Analysis%20with%20CD%20&%20Fluorimeter-28A745?style=for-the-badge">
-</p>
+## 🧪 Lab Skills
 
-<br style="clear: both;">
+<div align="center">
+  <table>
+    <tr>
+      <td valign="center" width="40%">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTBvbG5kcDk2bTFrdnl6bGc1eWF3cnM3cnZzNXNsODU5d2FqM3dndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11Vyqk4kqTOG76/giphy.gif" width="100%" />
+      </td>
+      <td valign="top" width="60%">
+        <h3>🧫 Wet Lab & Experimentation</h3>
+        <img src="https://img.shields.io/badge/Microbial%20Cell%20Culture-28A745?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Plasmid%20Design-28A745?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Protein%20Purification-28A745?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Enzyme%20Kinetics-28A745?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Biophysical%20Analysis-28A745?style=for-the-badge">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ## 👋 Get in Touch
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3czbzVhamE5YWM0MDI1cGtoZGE5Nnc0aW8zYjhsdW0yOGFpenZ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="300" height="220" />
 
-<p align="center">
-  Happy to get in contact for scientific collaborations, seminars and any opportunity you may want to share in the protein evolution, discovery and design field :)
-  <br><br>
-  Follow here or in LinkedIn!
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3czbzVhamE5YWM0MDI1cGtoZGE5Nnc0aW8zYjhsdW0yOGFpenZ2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKLC8zBUd7eEteE/giphy.gif" width="300" />
+  
+  <p>Happy to collaborate on protein evolution, discovery, and design!</p>
+  
+  <a href="https://www.linkedin.com/in/marco-orlando-bioch91" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="https://github.com/biochorl" target="_blank">
-    <img src="https://img.shields.io/github/followers/biochorl?label=follow&style=social" alt="GitHub Follow" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/marco-orlando-bioch91" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+</div>
 
-<br style="clear: both;">
+<br>
 
-<p align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
-</p>
+</div>
