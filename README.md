@@ -24,11 +24,7 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biochorl&show_icons=true&theme=radical&hide_border=true" alt="Marco's GitHub Stats" height="150" />
-</div>
 
----
 
 ## 🔬 About Me
 
@@ -42,7 +38,7 @@ In my view, the future of biotech relies on self-improving AI approaches (Transf
 
 ---
 
-## 🧬 Research Highlights: AI-Driven Design of CDKL5 Binders with Minimal Screening
+## 🧬 Current main Project: AI-Driven Design of CDKL5 Binders with Minimal Screening
 
 <p align="center">
   <img src="Background/ensemble_animation.gif" width="700" alt="Protein Ensemble Animation" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
