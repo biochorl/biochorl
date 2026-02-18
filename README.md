@@ -47,7 +47,7 @@ In my view, the future of biotech relies on self-improving AI approaches (Transf
 <p align="center">
   <img src="Background/ensemble_animation.gif" width="700" alt="Protein Ensemble Animation" style="border-radius: 10px; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
   <br>
-  <em><strong>Project Overview:</strong> Developing an AI-driven pipeline to target challenging, poorly immunogenic biomarkers like CDKL5. We integrate Machine Learning to design Nanobodies against specific folded and unfolded epitopes, optimizing for developability to distinguish isoforms and unravel disease mechanisms where traditional screening fails.</em>
+  <em><strong>Project Overview:</strong> Developing an AI-driven pipeline to target challenging, poorly immunogenic biomarkers like CDKL5. We integrate Machine Learning to design protein binders against specific folded and unfolded epitopes, optimizing for developability to distinguish isoforms and unravel disease mechanisms where traditional screening fails.</em>
 </p>
 
 ---
